@@ -66,7 +66,7 @@ This includes performance metrics for:
 
 ************Citation************
 
-will be updated later upon paper acceptance
+will be updated later
 
 ---
 
